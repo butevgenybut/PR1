@@ -14,3 +14,4 @@ textwrong = "Tue Aug 29 15:08:48 q023"
 regex = "[a-zA-Z]+ [a-zA-Z]+ [0-9]+ [0-9]+:[0-9]+:[0-9]+ [0-9]+"
 print(re.match(regex,textright))
 print(re.match(regex,textwrong))
+print("новая строчка")
